@@ -70,6 +70,31 @@ De um arquivo que terá na sua sintaxe, declarações, propriedades e valores. A
 - seletor
 - propriedade e valor
 
+# JS
+- Linguagem de programação
+- Browsers
+- Input -> Process -> Output
+- Variáveis
+- Function
+  - Sgrupamento e reuso de código
+  - Sequencia logica 
+  - Saída
+- Gemini (IA): esperar uma resposta
+- Mexer no meu navegador
+- Estrutura de dados
+- Estrutura de decisão
+- Algoritmo: uma sequência de passos, de maneira ordenada, a fim de chegar a alguma conclusão (limitada)
+Lógica (pensamento Computacional)
+  - Abstração
+  - Decomposição
+  - Algoritmo
+  - Reconhecimento de padrão
+- Tipos de dados
+  - Number (números)
+  - String (Textos) ("",'',``)
+  - Boolean:  true | false
 
-
+# DOM
+- Document Object Model
+- Modelo de objeto do documento
 
