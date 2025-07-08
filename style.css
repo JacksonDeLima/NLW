@@ -1,0 +1,11 @@
+body {
+  background: url("/assets/bg.jpg");
+  background-repeat: no-repeat; /*keyword */
+  background-size: 100% auto; /* width, height */
+  background-position: top center; /* x, y */
+  background-color: #121214; /* HEX: RR, GG. BB */
+  color: aliceblue;
+
+
+
+}
